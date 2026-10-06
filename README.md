@@ -349,5 +349,13 @@ Apache 2.0
 ## Citation
 
 ```
-ThinkProb: Profiling LLM Cognitive Behavior Through CoT Trace Analysis
+@misc{kerkouri2026thinkprobeaccuracystructural,
+      title={ThinkProbe: Beyond Accuracy -- Structural Profiling of Open-Ended LLM Reasoning Traces via Non-Generative Thought Graphs}, 
+      author={Mohamed Amine Kerkouri and Simon D. Hernandez and Marouane Tliba and Yann Dauxais and Maha Ben-Fares and Pierre Holat},
+      year={2026},
+      eprint={2606.29067},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.29067}, 
+}
 ```
